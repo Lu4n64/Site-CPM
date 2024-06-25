@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial; /*Fonte do textp = Arial*/
+}
+header {
+    display: flex; /*Usa o modelo de layout flexível.*/
+    justify-content: space-between; /* Espaça os itens do cabeçalho uniformemente com o maior espaço possível entre eles.*/
+}
+.sobre .texto {
+    display: flex; /*Usa o modelo de layout flexível.*/
+}
+footer {
+    display: flex; /*Modelo flexível*/
+    justify-content: space-between; /*Espaça os itens do rodapé*/
+}
